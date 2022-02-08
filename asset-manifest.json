@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/uma-tiers/static/css/main.add4f3fd.chunk.css",
-    "main.js": "/uma-tiers/static/js/main.5d2ab4e9.chunk.js",
-    "main.js.map": "/uma-tiers/static/js/main.5d2ab4e9.chunk.js.map",
+    "main.js": "/uma-tiers/static/js/main.b3e6e37b.chunk.js",
+    "main.js.map": "/uma-tiers/static/js/main.b3e6e37b.chunk.js.map",
     "runtime-main.js": "/uma-tiers/static/js/runtime-main.8112a686.js",
     "runtime-main.js.map": "/uma-tiers/static/js/runtime-main.8112a686.js.map",
     "static/js/2.f5563671.chunk.js": "/uma-tiers/static/js/2.f5563671.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8112a686.js",
     "static/js/2.f5563671.chunk.js",
     "static/css/main.add4f3fd.chunk.css",
-    "static/js/main.5d2ab4e9.chunk.js"
+    "static/js/main.b3e6e37b.chunk.js"
   ]
 }
